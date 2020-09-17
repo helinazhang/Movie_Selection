@@ -2,7 +2,7 @@
 
 Selection of The Most Popular Movies For The Cinema Chain Firm
 
-Business Case
+#Business Case: 
 The firm operates a cinema chain across the globe. One of the key challenges the firm is facing right now is how to quickly identify and select the best movies to air from the list of new movies that come out every month.
 The Objective: Revenue and Quality
 The firm choose two criteria for movie selection, Revenue and Quality. 
